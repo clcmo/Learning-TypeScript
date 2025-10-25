@@ -1,3 +1,15 @@
+/**
+ * Arquivo de introdução ao TypeScript
+ * Este arquivo sauda o usuário e demonstra alguns conceitos básicos do TypeScript,
+ * como tipos, funções assíncronas, tuplas, union types e tipos genéricos.
+ * 
+ * Autor: Camila
+ * Data: 2025-10-23
+ * Licença: MIT
+ * Versão: 1.0.0
+ */
+
+// Saudações ao usuário
 console.log("Olá")
 
 

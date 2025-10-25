@@ -1,3 +1,28 @@
+/**
+ * Arrays em TypeScript
+ * 
+ * Este arquivo demonstra como declarar, inicializar e manipular arrays em TypeScript.
+ * Inclui exemplos de arrays com tipos específicos, arrays multidimensionais, e várias
+ * operações comuns em arrays, como adicionar, remover, iterar, filtrar, mapear e reduzir.
+ * Também mostra o uso de tuplas e arrays genéricos.
+ * 
+ * Sumário dos conteúdos:
+ * - Declaração e inicialização de arrays
+ * - Adição e acesso a elementos
+ * - Iteração sobre arrays
+ * - Arrays multidimensionais
+ * - Tuplas
+ * - Arrays genéricos
+ * - Funções que retornam arrays
+ * - Operações comuns em arrays (filter, map, reduce, etc.)
+ * - Ordenação e manipulação de arrays
+ * - Outras operações úteis em arrays
+ * 
+ * Autor: Camila
+ * Data: 2025-10-23
+ * Licença: MIT
+ */
+
 // Arrays com tipos específicos
 let numeros: number[] = [1, 2, 3, 4, 5];
 let nomes: string[] = ["Ana", "Bruno", "Carla"];
@@ -115,5 +140,3 @@ numeros = [];
 console.log(numeros); // []
 nomes = [];
 console.log(nomes);   // []
-
-// Fim do arquivo arrays.ts
